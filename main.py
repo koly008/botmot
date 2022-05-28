@@ -6,7 +6,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 def main():
-    updater = Updater(token='Токен вашего бота')
+    updater = Updater(token='5445443346:AAHOFuY53ZMohGwXVVWYYB8jgi4vEanObF0')
 
     dispatcher = updater.dispatcher
 
